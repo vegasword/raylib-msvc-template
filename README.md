@@ -3,7 +3,7 @@
 This is a [raylib](https://github.com/raysan5/raylib) project template for people who love to compile their C programs using the MSVC compiler.
 
 > [!WARNING]
-> This template is optimized for an [unity build workflow](https://www.youtube.com/watch?v=EHikzQcvbNI), though you can add your source files to the `SOURCES` variable in the `build.bat`.
+> This template is designed for an [unity build workflow](https://www.youtube.com/watch?v=EHikzQcvbNI), though you can add your source files to the `SOURCES` variable in the `build.bat`.
 
 > [!IMPORTANT]
 > For faster compilation, raylib sources aren't compiled in this build process, so you won't be able to debug into raylib functions.
